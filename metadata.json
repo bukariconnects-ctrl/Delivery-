@@ -1,0 +1,6 @@
+{
+  "name": "Delivery Tracker",
+  "description": "Real-time delivery maps tracking platform for customers, restaurant owners, and drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
